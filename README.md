@@ -33,3 +33,33 @@ In CartContext.js, I utilized React's Context API and useReducer hook to handle 
 This app is wired in such a way that the Home Screen displays a list of available products that can be added to cart. The Cart Screen displays the items that have been added to cart from the Home Screen. The products in the cart screen can be removed. Below are screenshots of the app:
 
 ## Screenshots of the App
+
+
+![Screenshot (255)](https://github.com/JD-2104/rn-assignment6-11047613/assets/151099828/edb4165c-eb85-4070-9317-727bf3bc9002)
+
+
+
+
+![Screenshot (256)](https://github.com/JD-2104/rn-assignment6-11047613/assets/151099828/9d8777fe-6e39-4adc-aff8-d634d1d049e7)
+
+
+
+
+![Screenshot (257)](https://github.com/JD-2104/rn-assignment6-11047613/assets/151099828/c005e843-c405-464b-9b95-1adef938ab30)
+
+
+
+
+![Screenshot (258)](https://github.com/JD-2104/rn-assignment6-11047613/assets/151099828/f707cab8-5ed8-4f15-85a4-76b86a61aa1a)
+
+
+
+
+
+![Screenshot (259)](https://github.com/JD-2104/rn-assignment6-11047613/assets/151099828/437e6a4d-dafd-4b42-a74f-99217ca97c77)
+
+
+
+![Screenshot (260)](https://github.com/JD-2104/rn-assignment6-11047613/assets/151099828/6159f5ae-50ad-4128-9f24-89e851bd9441)
+
+
