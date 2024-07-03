@@ -41,6 +41,8 @@ This app is wired in such a way that the Home Screen displays a list of availabl
 #### Empty Cart
 ![IMG-20240702-WA0003](https://github.com/ewurafuaa/rn-assignment6-11302223/assets/170051346/7e01b07b-1903-4799-b1b1-ba7d939f6142)
 
+
+
 #### Items added to cart
 ![IMG-20240702-WA0005](https://github.com/ewurafuaa/rn-assignment6-11302223/assets/170051346/b2b34dc1-039d-4e4b-8905-567dd3a1a967)
 
