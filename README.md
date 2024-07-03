@@ -36,7 +36,9 @@ This app is wired in such a way that the Home Screen displays a list of availabl
 ### HomeScreen
 ![IMG-20240702-WA0001](https://github.com/ewurafuaa/rn-assignment6-11302223/assets/170051346/48d42202-eafd-4041-a9d4-b32b9c1974b7)
 
+
 ![IMG-20240702-WA0004](https://github.com/ewurafuaa/rn-assignment6-11302223/assets/170051346/2a5f6f4e-a9dd-4266-a94e-43c03e903c1a)
+
 ### Cart Screen
 #### Empty Cart
 ![IMG-20240702-WA0003](https://github.com/ewurafuaa/rn-assignment6-11302223/assets/170051346/7e01b07b-1903-4799-b1b1-ba7d939f6142)
